@@ -1,0 +1,257 @@
+<?xml version="1.0"?>
+<ArrayOfCandy xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Candy>
+    <count>12</count>
+    <cost>1.75</cost>
+    <name>Hershy</name>
+    <info>
+      <string>Total Calories	 210</string>
+      <string>Calories from Fat	 110</string>
+      <string>Amount Per Serving	%DV *</string>
+      <string>Total Fat 13g	 20%</string>
+      <string>Saturated Fat 8g	 40%</string>
+      <string>Trans Fat 0g</string>
+      <string>Cholesterol 10mg	 3%</string>
+      <string>Sodium 35mg	 1%</string>
+      <string>Total Carbohydrate 26g	 9%</string>
+      <string>Dietary Fiber 1g	 4%</string>
+      <string>Sugars 24g</string>
+      <string>Protein 3g</string>
+      <string>Vitamin A 	 0%</string>
+      <string>Vitamin C 	 0%</string>
+      <string>Calcium 	 8%</string>
+      <string>Iron 	 2%</string>
+    </info>
+    <picture>../../pictures/hershey-bars-milk-chocolate_lg.png</picture>
+  </Candy>
+  <Candy>
+    <count>34</count>
+    <cost>1.80</cost>
+    <name>Hershy Air</name>
+    <info>
+      <string>Total Calories	 200</string>
+      <string>Calories from Fat	 100</string>
+      <string>Amount Per Serving	%DV *</string>
+      <string>Total Fat 12g	 18%</string>
+      <string>Saturated Fat 7g	 35%</string>
+      <string>Trans Fat 0g</string>
+      <string>Cholesterol 10mg	 3%</string>
+      <string>Sodium 30mg	 1%</string>
+      <string>Total Carbohydrate 24g	 8%</string>
+      <string>Dietary Fiber 1g	 4%</string>
+      <string>Sugars 22g</string>
+      <string>Protein 3g</string>
+      <string>Vitamin A 	 0%</string>
+      <string>Vitamin C 	 0%</string>
+      <string>Calcium 	 8%</string>
+      <string>Iron 	 2%</string>
+    </info>
+    <picture>../../pictures/hershey-bars-air-delight_lg.png</picture>
+  </Candy>
+  <Candy>
+    <count>34</count>
+    <cost>1.80</cost>
+    <name>Almond Hershy</name>
+    <info>
+      <string>210 Calories</string>
+      <string>130 Calories from Fat</string>
+      <string>Total Fat 14g  22%</string>
+      <string>Saturated Fat 6g  30%</string>
+      <string>Trans Fat 0g</string>
+      <string>cholesterol 10mg</string>
+    </info>
+    <picture>../../pictures/hershey-bars-milk-chocolate-almonds_lg.png</picture>
+  </Candy>
+  <Candy>
+    <count>34</count>
+    <cost>1.75</cost>
+    <name>Mounds</name>
+    <info>
+      <string>92 Calories</string>
+      <string>45 Calories from Fat</string>
+      <string>Total Fat 14g  8%</string>
+      <string>Saturated Fat 4g  20%</string>
+      <string>Trans Fat 0g</string>
+      <string>cholesterol 0mg</string>
+    </info>
+    <picture>../../pictures/Mounds_Bar.png</picture>
+  </Candy>
+  <Candy>
+    <count>34</count>
+    <cost>2</cost>
+    <name>Heath</name>
+    <info>
+      <string>Kosher Status: OU-D</string>
+      <string>Serving Size: 1 Bar</string>
+      <string>Total Calories	 210</string>
+      <string>Calories from Fat	 110</string>
+      <string>Amount Per Serving	%DV *</string>
+      <string>Total Fat 13 g	20%</string>
+      <string>Saturated Fat 7 g	35%</string>
+      <string>Trans Fat g</string>
+      <string>Cholesterol 10 mg	3%</string>
+      <string>Sodium 140 mg	6%</string>
+      <string>Total Carbohydrate 24 g	8%</string>
+      <string> Dietary Fiber 1 g	2%</string>
+      <string>Sugars 24 g</string>
+      <string>Protein 1 g</string>
+      <string>Vitamin A	0%</string>
+      <string>Vitamin C	0%</string>
+      <string>Calcium	2%</string>
+      <string>Iron	0%</string>
+    </info>
+    <picture>../../pictures/Small-heath-package.jpg</picture>
+  </Candy>
+  <Candy>
+    <count>34</count>
+    <cost>2</cost>
+    <name>MM's</name>
+    <info>
+      <string>Serving Size 1 unit (47.9g) Calories 240</string>
+      <string>Servings Per Container 1 Calories from Fat 90</string>
+      <string>Amount/Serving	%DV*</string>
+      <string>-------------------------------------------</string>
+      <string>Total Fat 10g	15%</string>
+      <string>Sat. Fat 6g	30%</string>
+      <string>Trans Fat 0g</string>
+      <string>Cholest. 5mg	2%</string>
+      <string>Sodium 30mg	1%</string>
+      <string>Total Carb. 34g	11%</string>
+      <string>Dietary Fiber 1g	4%</string>
+      <string>Sugars 30g</string>
+      <string>Protein 2g</string>
+    </info>
+    <picture>../../pictures/im-mms.jpg</picture>
+  </Candy>
+  <Candy>
+    <count>34</count>
+    <cost>3</cost>
+    <name>Penut MM's</name>
+    <info>
+      <string>Serving Size 1 unit (49.3g) Calories 250</string>
+      <string>Servings Per Container 1 Calories from Fat 120</string>
+      <string>Amount/Serving	%DV*</string>
+      <string>-------------------------------------------</string>
+      <string>Total Fat 13g	20%</string>
+      <string>Sat. Fat 5g	25%</string>
+      <string>Trans Fat 0g</string>
+      <string>Cholest. 5mg	2%</string>
+      <string>Sodium 25mg	1%</string>
+      <string>Total Carb. 30g	10%</string>
+      <string>Dietary Fiber 2g	8%</string>
+      <string>Sugars 25g</string>
+      <string>Protein 5g</string>
+    </info>
+    <picture>../../pictures/im-peanut.jpg</picture>
+  </Candy>
+  <Candy>
+    <count>34</count>
+    <cost>3</cost>
+    <name>KitKat</name>
+    <info>
+      <string>Total Calories	 210</string>
+      <string>Calories from Fat	 90</string>
+      <string>Amount Per Serving	%DV *</string>
+      <string>Total Fat 11g	 17%</string>
+      <string>Saturated Fat 7g	 35%</string>
+      <string>Trans Fat 0g</string>
+      <string>Cholesterol 5mg	 2%</string>
+      <string>Sodium 30mg	 1%</string>
+      <string>Total Carbohydrate 27g	 9%</string>
+      <string>Dietary Fiber 1g	 3%</string>
+      <string>Sugars 21g</string>
+      <string>Protein 3g</string>
+      <string>Vitamin A 	 0%</string>
+      <string>Vitamin C 	 0%</string>
+      <string>Calcium 	 6%</string>
+      <string>Iron 	 2%</string>
+    </info>
+    <picture>../../pictures/KitKat_MilkChocolate.png</picture>
+  </Candy>
+  <Candy>
+    <count>34</count>
+    <cost>3</cost>
+    <name>Snickers</name>
+    <info>
+      <string>Serving Size 1 unit (52.7g) Calories 250</string>
+      <string>Servings Per Container 1 Calories from Fat 110</string>
+      <string>Amount/Serving	%DV*</string>
+      <string>---------------------------------------------------</string>
+      <string>Total Fat 12g	18%</string>
+      <string>Sat. Fat 4.5g	23%</string>
+      <string>Trans Fat 0g</string>
+      <string>Cholest. 5mg	2%</string>
+      <string>Sodium 120mg	5%</string>
+      <string>Total Carb. 33g	11%</string>
+      <string>Dietary Fiber 1g	4%</string>
+      <string>Sugars 27g</string>
+      <string>Protein 4g</string>
+      <string></string>
+      <string>Vitamin A *</string>
+      <string>Vitamin C *</string>
+      <string>Calcium 4%</string>
+      <string>Iron 2%</string>
+      <string>* Contains less than 2% of the Daily Value of these nutrient(s).</string>
+    </info>
+    <picture>../../pictures/im_hero.png</picture>
+  </Candy>
+  <Candy>
+    <count>34</count>
+    <cost>3</cost>
+    <name>Milkyway</name>
+    <info>
+      <string>Serving Size 1 bar (52.2g)Calories 240</string>
+      <string>Servings Per Container 1Calories from Fat 80</string>
+      <string>Amount/Serving	%DV*</string>
+      <string>Total Fat 9g	14%</string>
+      <string>Sat. Fat 7g	35%</string>
+      <string>Trans Fat 0g</string>
+      <string>Cholest. 10mg	3%</string>
+      <string>Sodium 75mg	3%</string>
+      <string>Total Carb. 37g	12%</string>
+      <string>Dietary Fiber 1g	4%</string>
+      <string>Sugars 31g</string>
+      <string>Protein 2g</string>
+      <string></string>
+      <string>Vitamin A *</string>
+      <string>Vitamin C *</string>
+      <string>Calcium 4%</string>
+      <string>Iron *</string>
+      <string>* Contains less than 2% of the Daily Value of these nutrient(s).</string>
+    </info>
+    <picture>../../pictures/im_product_1.jpg</picture>
+  </Candy>
+  <Candy>
+    <count>34</count>
+    <cost>3</cost>
+    <name>ButterFinger</name>
+    <info>
+      <string>Serving Size 1 bar (60 g)</string>
+      <string>Servings per Container 1</string>
+      <string>Amount Per Serving</string>
+      <string>Calories 270   Calories from Fat 100</string>
+      <string>% Daily Value*</string>
+      <string>Total Fat	11 g	17%</string>
+      <string>Saturated Fat	6 g	28%</string>
+      <string>Trans Fat	0 g</string>
+      <string>Cholesterol	0 mg	0%</string>
+      <string>Sodium	135 mg	6%</string>
+      <string>Total Carbohydrate	43 g	14%</string>
+      <string>Dietary Fiber	1 g	4%</string>
+      <string>Sugars	29 g</string>
+      <string>Protein	4 g</string>
+      <string>Vitamin A 0%	*	Vitamin C 0%</string>
+      <string>Calcium 2%	*	Iron 2%</string>
+      <string>*	Percent Daily Values are based on a 2,000 calorie diet. </string>
+      <string>  Your daily values may be higher or lower depending on your calorie needs:</string>
+      <string>Calories:	2,000	2,500</string>
+      <string>Total Fat	Less than	65 g	80 g</string>
+      <string>Sat Fat	Less than	20 g	25 g</string>
+      <string>Cholesterol	Less than	300 mg	300 mg</string>
+      <string>Sodium	Less than	2,400 mg	2,400 mg</string>
+      <string>Total Carbohydrate	300 g	375 g</string>
+      <string>Dietary Fiber	25 g	30 g</string>
+    </info>
+    <picture>../../pictures/bf-detail.jpg</picture>
+  </Candy>
+</ArrayOfCandy>

@@ -1,0 +1,236 @@
+<?xml version="1.0"?>
+<ArrayOfDrink xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Drink>
+    <count>34</count>
+    <cost>3</cost>
+    <name>Coke</name>
+    <info>
+      <string>Serving Size 1 Can (330 g)</string>
+      <string>Per Serving % Daily Value*</string>
+      <string>Calories 0</string>
+      <string>Calories from Fat 0</string>
+      <string>Total Fat 0g 0%</string>
+      <string>Carbohydrates 0g 0%</string>
+      <string>Dietary Fiber 0g 0%</string>
+      <string>Protein 0g</string>
+    </info>
+    <picture>../../pictures/coke.jpg</picture>
+    <temperature>33</temperature>
+  </Drink>
+  <Drink>
+    <count>34</count>
+    <cost>3</cost>
+    <name>Pepsi</name>
+    <info>
+      <string>Serving Size 1 Serving (340 g)</string>
+      <string>Per Serving % Daily Value*</string>
+      <string>Calories 150</string>
+      <string>Calories from Fat 0</string>
+      <string>Total Fat 0g 0%</string>
+      <string>Sodium 30mg 1%</string>
+      <string>Potassium 14.19mg 0%</string>
+      <string>Carbohydrates 41g 14%</string>
+      <string>Sugars 41g</string>
+      <string>Protein 0g</string>
+    </info>
+    <picture>../../pictures/pepsi-presence-logo-copy.jpg</picture>
+    <temperature>33</temperature>
+  </Drink>
+  <Drink>
+    <count>34</count>
+    <cost>3</cost>
+    <name>Mountain Dew</name>
+    <info>
+      <string>Per Serving % Daily Value*</string>
+      <string>Calories </string>
+      <string>Calories from Fat 0</string>
+      <string>Total Fat 0g 0%</string>
+      <string>Saturated Fat 0g 0%</string>
+      <string>Polyunsaturated Fat 0g</string>
+      <string>Monounsaturated Fat 0g</string>
+      <string>Cholesterol 0mg 0%</string>
+      <string>Sodium 252mg 11%</string>
+      <string>Potassium 0mg 0%</string>
+      <string>Carbohydrates 184.8g 62%</string>
+      <string>Dietary Fiber 0g 0%</string>
+      <string>Sugars 184.8g</string>
+      <string>Protein 0g</string>
+    </info>
+    <picture>../../pictures/mountaindew4.jpg</picture>
+    <temperature>33</temperature>
+  </Drink>
+  <Drink>
+    <count>34</count>
+    <cost>3</cost>
+    <name>Sierra Mist</name>
+    <info>
+      <string>Per Serving % Daily Value*</string>
+      <string>Calories 100</string>
+      <string>Sodium 25mg 1%</string>
+      <string>Potassium 31.99mg 1%</string>
+      <string>Carbohydrates 26g 9%</string>
+      <string>Sugars 26g</string>
+    </info>
+    <picture>../../pictures/smx.jpg</picture>
+    <temperature>33</temperature>
+  </Drink>
+  <Drink>
+    <count>34</count>
+    <cost>3</cost>
+    <name>Sprite</name>
+    <info>
+      <string>Calories 96</string>
+      <string>Sodium 47mg 2%</string>
+      <string>Carbohydrates 26g 9%</string>
+      <string>Sugars 26g</string>
+    </info>
+    <picture>../../pictures/coca-cola-sprite-167133.jpg</picture>
+    <temperature>33</temperature>
+  </Drink>
+  <Drink>
+    <count>34</count>
+    <cost>3</cost>
+    <name>Aquafina</name>
+    <info>
+      <string>It's Water...</string>
+    </info>
+    <picture>../../pictures/purity-slide1.jpg</picture>
+    <temperature>33</temperature>
+  </Drink>
+  <Drink>
+    <count>34</count>
+    <cost>3</cost>
+    <name>Brisk Lemonade</name>
+    <info>
+      <string>Calories 100</string>
+      <string>Calories from Fat 0</string>
+      <string>Total Fat 0g 0%</string>
+      <string>Sodium 90mg 4%</string>
+      <string>Carbohydrates 26.1g 9%</string>
+      <string>Sugars 25g</string>
+      <string>Protein 0g</string>
+      <string>Vitamin C 100%</string>
+    </info>
+    <picture>../../pictures/0001200000216_500X500.jpg</picture>
+    <temperature>33</temperature>
+  </Drink>
+  <Drink>
+    <count>34</count>
+    <cost>3</cost>
+    <name>Brisk Strawberry</name>
+    <info>
+      <string>Per Serving % Daily Value*</string>
+      <string>Calories 100</string>
+      <string>Calories from Fat 0</string>
+      <string>Total Fat 0g 0%</string>
+      <string>Sodium 50mg 2%</string>
+      <string>Carbohydrates 26.1g 9%</string>
+      <string>Sugars 26.1g</string>
+      <string>Protein 0g</string>
+    </info>
+    <picture>../../pictures/14946855_201311041532.jpg</picture>
+    <temperature>33</temperature>
+  </Drink>
+  <Drink>
+    <count>34</count>
+    <cost>3</cost>
+    <name>Brisk Tea</name>
+    <info>
+      <string>Per Serving % Daily Value*</string>
+      <string>Calories 70</string>
+      <string>Sodium 50mg 2%</string>
+      <string>Carbohydrates 18g 6%</string>
+      <string>Sugars 18g</string>
+    </info>
+    <picture>../../pictures/lipton-brisk-iced-tea-6550.jpg</picture>
+    <temperature>33</temperature>
+  </Drink>
+  <Drink>
+    <count>34</count>
+    <cost>3</cost>
+    <name>Crush Grape</name>
+    <info>
+      <string>Per Serving % Daily Value*</string>
+      <string>Calories 190</string>
+      <string>Calories from Fat 0</string>
+      <string>Total Fat 0g 0%</string>
+      <string>Sodium 40mg 2%</string>
+      <string>Carbohydrates 51g 17%</string>
+      <string>Sugars 51g</string>
+      <string>Protein 0g</string>
+    </info>
+    <picture>../../pictures/crush-soda-grape-54495.jpg</picture>
+    <temperature>33</temperature>
+  </Drink>
+  <Drink>
+    <count>34</count>
+    <cost>3</cost>
+    <name>Crush Orange</name>
+    <info>
+      <string>Per Serving % Daily Value*</string>
+      <string>Calories 190</string>
+      <string>Calories from Fat 0</string>
+      <string>Total Fat 0g 0%</string>
+      <string>Sodium 40mg 2%</string>
+      <string>Carbohydrates 51g 17%</string>
+      <string>Sugars 51g</string>
+      <string>Protein 0g</string>
+    </info>
+    <picture>../../pictures/retrocrush.jpg</picture>
+    <temperature>33</temperature>
+  </Drink>
+  <Drink>
+    <count>34</count>
+    <cost>3</cost>
+    <name>Dr. Pepper</name>
+    <info>
+      <string>Per Serving % Daily Value*</string>
+      <string>Calories 100</string>
+      <string>Calories from Fat 0</string>
+      <string>Total Fat 0g 0%</string>
+      <string>Saturated Fat 0g 0%</string>
+      <string>Polyunsaturated Fat 0g</string>
+      <string>Monounsaturated Fat 0g</string>
+      <string>Cholesterol 0mg 0%</string>
+      <string>Sodium 40mg 2%</string>
+      <string>Potassium 0mg 0%</string>
+      <string>Carbohydrates 26.4g 9%</string>
+      <string>Dietary Fiber 0g 0%</string>
+      <string>Sugars 25.6g</string>
+      <string>Protein 0g</string>
+    </info>
+    <picture>../../pictures/471_DrPepperCan12oz.jpg</picture>
+    <temperature>33</temperature>
+  </Drink>
+  <Drink>
+    <count>34</count>
+    <cost>3</cost>
+    <name>Cherry Dr.Pepper</name>
+    <info>
+      <string>Amount Per Serving	% Daily Value</string>
+      <string>Calories	260</string>
+      <string>Total Fat	0 g	0%</string>
+      <string>Sodium	100 mg	4%</string>
+      <string>Total Carbohydrates	71 g	24%</string>
+      <string>Sugar	69 g</string>
+      <string>Protein	0 </string>
+    </info>
+    <picture>../../pictures/cherry_vanilla_dr_pepper_178.jpg</picture>
+    <temperature>33</temperature>
+  </Drink>
+  <Drink>
+    <count>34</count>
+    <cost>3</cost>
+    <name>Mug Root Beer</name>
+    <info>
+      <string>Per Serving % Daily Value*</string>
+      <string>Calories 100</string>
+      <string>Sodium 40mg 2%</string>
+      <string>Potassium 10mg 0%</string>
+      <string>Carbohydrates 29g 10%</string>
+      <string>Sugars 29g</string>
+    </info>
+    <picture>../../pictures/Mug_Root_Beer_406166.jpg</picture>
+    <temperature>33</temperature>
+  </Drink>
+</ArrayOfDrink>

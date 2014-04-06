@@ -1,0 +1,260 @@
+<?xml version="1.0"?>
+<ArrayOfSnack xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Snack>
+    <count>34</count>
+    <cost>3</cost>
+    <name>Triscuits</name>
+    <info>
+      <string>Per Serving % Daily Value*</string>
+      <string>Calories 130</string>
+      <string>Calories from Fat 40</string>
+      <string>Total Fat 4.5g 7%</string>
+      <string>Saturated Fat 0.5g 2%</string>
+      <string>Polyunsaturated Fat 2.5g</string>
+      <string>Monounsaturated Fat 1g</string>
+      <string>Cholesterol 0mg 0%</string>
+      <string>Sodium 85mg 4%</string>
+      <string>Potassium 65mg 2%</string>
+      <string>Carbohydrates 21g 7%</string>
+      <string>Dietary Fiber 1g 4%</string>
+      <string>Sugars 1g</string>
+      <string>Protein 2g</string>
+      <string>Vitamin A 4% · Vitamin C 0%</string>
+      <string>Calcium 0% · Iron 2%</string>
+    </info>
+    <picture>../../pictures/triscuit-kalynskitchen.jpg</picture>
+  </Snack>
+  <Snack>
+    <count>34</count>
+    <cost>3</cost>
+    <name>Lays</name>
+    <info>
+      <string>Per Serving % Daily Value*</string>
+      <string>Calories 160</string>
+      <string>Calories from Fat 90</string>
+      <string>Total Fat 10g 15%</string>
+      <string>Saturated Fat 1.5g 7%</string>
+      <string>Cholesterol 0mg 0%</string>
+      <string>Sodium 160mg 7%</string>
+      <string>Potassium 340mg 10%</string>
+      <string>Carbohydrates 15g 5%</string>
+      <string>Dietary Fiber 1g 4%</string>
+      <string>Sugars 1g</string>
+      <string>Protein 2g</string>
+      <string>Vitamin A 0% · Vitamin C 10%</string>
+      <string>Calcium 0% · Iron 2%</string>
+    </info>
+    <picture>../../pictures/LAYS_Classic.gif</picture>
+  </Snack>
+  <Snack>
+    <count>34</count>
+    <cost>3</cost>
+    <name>Baked Lays</name>
+    <info>
+      <string>Calories 180</string>
+      <string>Calories from Fat 27</string>
+      <string>Total Fat 3g 5%</string>
+      <string>Saturated Fat 0.5g 3%</string>
+      <string>Cholesterol 0mg 0%</string>
+      <string>Sodium 270mg 11%</string>
+      <string>Potassium 379.99mg 11%</string>
+      <string>Carbohydrates 34g 11%</string>
+      <string>Dietary Fiber 3g 12%</string>
+      <string>Sugars 3g</string>
+      <string>Protein 3g</string>
+      <string>Vitamin A 0% · Vitamin C 6%</string>
+      <string>Calcium 4% · Iron 2%</string>
+    </info>
+    <picture>../../pictures/Baked-Lays-Original-healthiest-chips-to-snack-on-pg-full.jpg</picture>
+  </Snack>
+  <Snack>
+    <count>34</count>
+    <cost>3</cost>
+    <name>Snyders</name>
+    <info>
+      <string>Calories 120</string>
+      <string>Calories from Fat 18</string>
+      <string>Total Fat 2g 3%</string>
+      <string>Saturated Fat 1g 5%</string>
+      <string>Cholesterol 0mg 0%</string>
+      <string>Sodium 470mg 20%</string>
+      <string>Carbohydrates 25g 8%</string>
+      <string>Dietary Fiber 1g 4%</string>
+      <string>Sugars 0g</string>
+      <string>Protein 0g</string>
+      <string>Vitamin A 0% · Vitamin C 0%</string>
+      <string>Calcium 0% · Iron 0%</string>
+    </info>
+    <picture>../../pictures/51dc5jNgPgL.jpg</picture>
+  </Snack>
+  <Snack>
+    <count>34</count>
+    <cost>3</cost>
+    <name>welch's fruit</name>
+    <info>
+      <string>Per Serving % Daily Value*</string>
+      <string>Calories 80</string>
+      <string>Calories from Fat 0</string>
+      <string>Total Fat 0g 0%</string>
+      <string>Sodium 10mg 0%</string>
+      <string>Carbohydrates 19g 6%</string>
+      <string>Sugars 15g</string>
+      <string>Protein 1g</string>
+      <string>Vitamin A 25% · Vitamin C 100%</string>
+    </info>
+    <picture>../../pictures/welchs-fruit-snacks.jpg</picture>
+  </Snack>
+  <Snack>
+    <count>34</count>
+    <cost>3</cost>
+    <name>Cheese It</name>
+    <info>
+      <string>Per Serving % Daily Value*</string>
+      <string>Calories 160</string>
+      <string>Calories from Fat 72</string>
+      <string>Total Fat 8g 12%</string>
+      <string>Saturated Fat 2g 10%</string>
+      <string>Sodium 250mg 10%</string>
+      <string>Carbohydrates 18g 6%</string>
+      <string>Dietary Fiber 1g 4%</string>
+      <string>Sugars 1g</string>
+      <string>Protein 4g</string>
+      <string>Vitamin A 2% ·</string>
+      <string>Calcium 4% · Iron 4%</string>
+    </info>
+    <picture>../../pictures/91ERnSfPKCL._SL1500_.jpg</picture>
+  </Snack>
+  <Snack>
+    <count>34</count>
+    <cost>3</cost>
+    <name>Chips Ahoy</name>
+    <info>
+      <string>Per Serving % Daily Value*</string>
+      <string>Calories 160</string>
+      <string>Calories from Fat 72</string>
+      <string>Total Fat 8g 12%</string>
+      <string>Cholesterol 0mg 0%</string>
+      <string>Sodium 110mg 5%</string>
+      <string>Potassium 45.02mg 1%</string>
+      <string>Carbohydrates 22g 7%</string>
+      <string>Dietary Fiber 0.7g 3%</string>
+      <string>Sugars 11g</string>
+      <string>Protein 2g</string>
+      <string>Vitamin A 0% · Vitamin C 0%</string>
+      <string>Calcium 0% · Iron 4%</string>
+    </info>
+    <picture>../../pictures/Chips Ahoy Original.jpg</picture>
+  </Snack>
+  <Snack>
+    <count>34</count>
+    <cost>3</cost>
+    <name>Doritos</name>
+    <info>
+      <string>Per Serving % Daily Value*</string>
+      <string>Calories 120</string>
+      <string>Calories from Fat 32</string>
+      <string>Total Fat 3.5g 5%</string>
+      <string>Saturated Fat 0.5g 3%</string>
+      <string>Sodium 220mg 9</string>
+      <string>Carbohydrates 21g 7%</string>
+      <string>Dietary Fiber 2g 8%</string>
+      <string>Sugars 1g</string>
+      <string>Protein 2g</string>
+      <string>Vitamin A 2% ·</string>
+      <string>Calcium 4% · Iron 4%</string>
+    </info>
+    <picture>../../pictures/51svkOSzDFL.jpg</picture>
+  </Snack>
+  <Snack>
+    <count>34</count>
+    <cost>3</cost>
+    <name>Chex Mix</name>
+    <info>
+      <string>Per Serving % Daily Value*</string>
+      <string>Calories 242</string>
+      <string>Calories from Fat 89</string>
+      <string>Total Fat 9.9g 15%</string>
+      <string>Saturated Fat 3.2g 16%</string>
+      <string>Polyunsaturated Fat 2.5g</string>
+      <string>Monounsaturated Fat 1.7g</string>
+      <string>Cholesterol 0mg 0%</string>
+      <string>Sodium 580mg 24%</string>
+      <string>Potassium 153.33mg 4%</string>
+      <string>Carbohydrates 37.1g 12%</string>
+      <string>Dietary Fiber 3.2g 13%</string>
+      <string>Sugars 2.8g</string>
+      <string>Protein 6.3g</string>
+      <string>Vitamin A 2% · Vitamin C 45%</string>
+      <string>Calcium 2% · Iron 78%</string>
+    </info>
+    <picture>../../pictures/chex-mix-snack-traditional-11980.jpg</picture>
+  </Snack>
+  <Snack>
+    <count>34</count>
+    <cost>3</cost>
+    <name>Sun Chips</name>
+    <info>
+      <string>Per Serving % Daily Value*</string>
+      <string>Calories 138</string>
+      <string>Calories from Fat 2</string>
+      <string>Total Fat 0.2g 0%</string>
+      <string>Saturated Fat 0g 0%</string>
+      <string>Polyunsaturated Fat 0.1g</string>
+      <string>Monounsaturated Fat 0.1g</string>
+      <string>Cholesterol 0mg 0%</string>
+      <string>Sodium 7mg 0%</string>
+      <string>Potassium 2.44mg 0%</string>
+      <string>Carbohydrates 0.6g 0%</string>
+      <string>Dietary Fiber 0.1g 0%</string>
+      <string>Sugars 0.1g</string>
+      <string>Protein 0.1g</string>
+      <string>Vitamin A 0% · Vitamin C 0%</string>
+      <string>Calcium 0% · Iron 0%</string>
+    </info>
+    <picture>../../pictures/SunChipsOriginal2.jpg</picture>
+  </Snack>
+  <Snack>
+    <count>34</count>
+    <cost>3</cost>
+    <name>Fritos</name>
+    <info>
+      <string>Per Serving % Daily Value*</string>
+      <string>Calories 160</string>
+      <string>Calories from Fat 90</string>
+      <string>Total Fat 10g 15%</string>
+      <string>Saturated Fat 1.5g 7%</string>
+      <string>Polyunsaturated Fat 6g</string>
+      <string>Monounsaturated Fat 2.5g</string>
+      <string>Cholesterol 0mg 0%</string>
+      <string>Sodium 160mg 7%</string>
+      <string>Carbohydrates 16g 5%</string>
+      <string>Dietary Fiber 1g 4%</string>
+      <string>Sugars 0g</string>
+      <string>Protein 2g</string>
+      <string>Vitamin A 0% · Vitamin C 0%</string>
+      <string>Calcium 2% · Iron 0%</string>
+    </info>
+    <picture>../../pictures/00028400088831_full.jpg</picture>
+  </Snack>
+  <Snack>
+    <count>34</count>
+    <cost>3</cost>
+    <name>Gold Fish</name>
+    <info>
+      <string>Per Serving % Daily Value*</string>
+      <string>Calories 140</string>
+      <string>Calories from Fat 45</string>
+      <string>Total Fat 5g 8%</string>
+      <string>Saturated Fat 1g 5%</string>
+      <string>Cholesterol 3mg 1%</string>
+      <string>Sodium 250mg 10%</string>
+      <string>Carbohydrates 20g 7%</string>
+      <string>Dietary Fiber 0.7g 3%</string>
+      <string>Sugars 0g</string>
+      <string>Protein 4g</string>
+      <string>Vitamin A 0% · Vitamin C 0%</string>
+      <string>Calcium 4% · Iron 2%</string>
+    </info>
+    <picture>../../pictures/0001921568301.jpg</picture>
+  </Snack>
+</ArrayOfSnack>
